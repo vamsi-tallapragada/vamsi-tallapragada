@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @vamsi-tallapragada
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning TDD and XP Practices
